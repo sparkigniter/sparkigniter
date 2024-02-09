@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
+<div> 
+  <h2 align="left">Hi, I am</h2>  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=Vikas+Biradargoudar)](https://git.io/typing-svg)
+</div>
 <h3 align="center">A passionate full stack developer!!!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparkigniter" alt="sparkigniter" /></a> </p>
